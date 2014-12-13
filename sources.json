@@ -15,7 +15,7 @@
 			"url": "https://149.3.130.242/mobileapp/sources.json"
 		},
 		{
-			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.list"
+			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.json"
 		}
 	]
 }
