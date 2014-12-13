@@ -9,10 +9,10 @@
 	],
 	"sources": [
 		{
-			"url": "https://5.152.213.162/sources.list"
+			"url": "https://5.152.213.162/mobileapp/sources.json"
 		},
 {
-			"url": "https://149.3.130.242/sources.list"
+			"url": "https://149.3.130.242/mobileapp/sources.json"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.list"
