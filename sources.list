@@ -1,0 +1,21 @@
+{
+	"servers": [
+		{
+			"ip": "5.152.213.162"
+		},
+		{
+			"ip": "149.3.130.242"
+		}
+	],
+	"sources": [
+		{
+			"url": "https://5.152.213.162/sources.list"
+		},
+{
+			"url": "https://149.3.130.242/sources.list"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.list"
+		}
+	]
+}
