@@ -15,13 +15,13 @@
 	],
 	"sources": [
 		{
-			"url": "https://149.3.130.242/mobileapp/sources.json"
+			"url": "https://149.3.130.242/mobileapp/sources_ts.json"
 		},
 		{
-			"url": "https://88.150.189.195/mobileapp/sources.json"
+			"url": "https://88.150.189.195/mobileapp/sources_ts.json"
 		},
 		{
-			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.json"
+			"url": "https://raw.githubusercontent.com/betcity/config/master/sources_ts.json"
 		}
 	]
 }
