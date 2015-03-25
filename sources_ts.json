@@ -1,0 +1,27 @@
+{
+	"servers": [
+		{
+			"ip": "149.3.130.242"
+		},
+		{
+			"ip": "88.150.189.195"
+		},
+		{
+			"ip": "149.3.130.242"
+		},
+		{
+			"ip": "88.150.189.195"
+		}
+	],
+	"sources": [
+		{
+			"url": "https://149.3.130.242/mobileapp/sources.json"
+		},
+		{
+			"url": "https://88.150.189.195/mobileapp/sources.json"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.json"
+		}
+	]
+}
