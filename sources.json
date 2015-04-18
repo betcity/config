@@ -16,9 +16,6 @@
 			"ip": "178.62.138.146"
 		},
 		{
-		  	"ip": "46.101.10.62"
-		},
-		{
 		  	"ip": "46.101.173.95"
 		}
 	],
@@ -37,9 +34,6 @@
 		},
 		{
 			"url": "https://178.62.138.146/mobileapp/sources.json"
-		},
-		{
-	  		"url": "https://46.101.10.62/mobileapp/sources.json"
 		},
 		{
 	  		"url": "https://46.101.173.95/mobileapp/sources.json"
