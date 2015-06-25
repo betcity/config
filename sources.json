@@ -1,6 +1,9 @@
 {
 	"servers": [
 		{
+			"ip": "5.152.213.162"
+		},
+		{
 			"ip": "88.150.189.195"
 		},
 		{
@@ -20,6 +23,9 @@
 		}
 	],
 	"sources": [
+		{
+			"url": "https://5.152.213.162/mobileapp/sources.json"
+		},
 		{
 			"url": "https://88.150.189.195/mobileapp/sources.json"
 		},
