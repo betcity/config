@@ -17,9 +17,6 @@
 		},
 		{
 		  	"ip": "46.101.173.95"
-		},
-		{
-		  	"ip": "46.101.10.62"
 		}
 	],
 	"sources": [
@@ -40,9 +37,6 @@
 		},
 		{
 	  		"url": "https://46.101.173.95/mobileapp/sources.json"
-		},
-		{
-	  		"url": "https://46.101.10.62/mobileapp/sources.json"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/betcity/config/master/sources.json"
